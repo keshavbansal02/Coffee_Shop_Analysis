@@ -58,6 +58,7 @@ Based on the analysis, the top three cities recommended for expansion are:
 This repository contains:
 
 * SQL scripts for performing the analysis.
+* Datasets
 * Data files (ERD , Presentation).
 * This README file.
 
