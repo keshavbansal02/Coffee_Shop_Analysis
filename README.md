@@ -1,5 +1,6 @@
 #   Monday Coffee Expansion Analysis
-![1](https://github.com/user-attachments/assets/ed3c91fe-83f4-4cde-8ca2-f652e57009f4)
+![image](https://github.com/user-attachments/assets/31596355-ed23-4ba7-836e-bff66b2a4c41)
+)
 
 
 ##   Project Overview
